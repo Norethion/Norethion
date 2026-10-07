@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:f97316,100:fbbf24&text=Ali%20Enes%20Aydemir&fontColor=ffffff&fontAlign=50&fontAlignY=45&fontSize=60" width="100%" alt="header"/>
 </p>
 
+**English** · [Türkçe](README.tr.md)
+
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Norethion?style=for-the-badge&color=f97316&label=Followers)](https://github.com/Norethion?tab=followers)
